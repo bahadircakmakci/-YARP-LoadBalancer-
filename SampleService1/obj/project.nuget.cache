@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6sj19OQB2g6Xk4eokR+8T5DuP7lNR+fu34jcRPXajdIG2Jb8XZPrehbKBkUJyf7uKa3SplcbLTSBpbaUY/3LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuevo\\Desktop\\ApiGetway\\APIGETWAY-YARP\\src\\SampleService1\\SampleService1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuevo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

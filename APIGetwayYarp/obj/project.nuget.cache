@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiIUSyr1w1m8/uwaIE7SjBM/CYTNaZJf1kF5Mxl3KgCnXLBP44S9pm0VvMBruYr4fqAMfCv7QfOk5AcRcBteIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuevo\\Desktop\\ApiGetway\\APIGETWAY-YARP\\src\\APIGetwayYarp\\APIGetwayYarp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuevo\\.nuget\\packages\\yarp.reverseproxy\\1.0.0\\yarp.reverseproxy.1.0.0.nupkg.sha512",
+    "C:\\Users\\Nuevo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
